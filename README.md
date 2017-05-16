@@ -48,6 +48,10 @@ Include "js/pcsCpElements.jquery.js" in your project and use the function "$.pcs
 </body>
 ```
 
+## Do you Like!
+Geve me a coffee: https://www.paypal.me/pasqualecs
+Thank you =)
+
 ***
 
 # [IT] - Copiare elementi con jQuery
@@ -95,3 +99,7 @@ Includere il file "js/pcsCpElements.jquery.js" net tuo progetto e usare la funzi
   ...
 </body>
 ```
+
+## Ti Piace!
+Mi offri un caffè: https://www.paypal.me/pasqualecs
+Grazie =)
