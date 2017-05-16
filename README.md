@@ -49,7 +49,7 @@ Include "js/pcsCpElements.jquery.js" in your project and use the function "$.pcs
 ```
 
 ## Do you Like!
-Geve me a coffee: https://www.paypal.me/pasqualecs
+Give me a coffee: https://www.paypal.me/pasqualecs
 Thank you =)
 
 ***
