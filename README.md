@@ -1,3 +1,7 @@
+Demo: https://pasquale-cs.github.io/copy-elements-jquery/
+
+***
+
 # [EN] - Copy elements jQuery
 Plugin copy elements for jQuery
 
